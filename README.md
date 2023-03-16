@@ -5,3 +5,4 @@
 * Se simulará un conflicto y su resolución
 * Conclusión
 * Último commit
+* Commit Arturo
